@@ -108,6 +108,7 @@ venv.bak/
 **/sample.csv
 **/billboard_weekly.csv
 **/billboard_weekly_sample.csv
+*.csv
 
 # config files:
 .DS_Store
